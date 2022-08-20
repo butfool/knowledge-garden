@@ -1,0 +1,15 @@
+- ## 万能的知识库
+	- 这是本人的学习知识库，主要是自己整理知识之用
+	- 如果你看到这个网站，那么很高兴能遇见你
+	- 右侧 [[Contents]] 显示了所有的主题
+- ## 生活不止眼前
+	- 其中包含了
+		- 各种书籍、视频或文章的阅读笔记
+		- 非本人专业的一些知识学习
+	- 但不包含知识、编码等方面的知识
+- ## 世界很大
+	- 主博客：[LYMTICS](https://lymtics.top)
+	- 导航网站：[LYMTICS NAV](https://nav.lymtics.top)
+	- 博客园：[LYMTICS BLOG](https://cnblogs.com/lymtics)
+- ## 我也有话说
+	- 联系我：[contact@mails.ren](mailto://contact@mails.ren)

@@ -1,0 +1,53 @@
+span[data-ref="#rd"],
+span[data-ref="#gr"],
+span[data-ref="#bl"],
+span[data-ref="#pk"],
+span[data-ref="#yl"],
+span[data-ref="#rdf"],
+span[data-ref="#grf"],
+span[data-ref="#ylf"],
+span[data-ref="#blf"] {
+    display: none;
+}
+
+span[data-ref="#rd"] + mark {
+    background: rgb(255, 78, 78);
+    border-radius: 10px;
+}
+span[data-ref="#gr"] + mark {
+    background: #ccffc1;
+}
+span[data-ref="#bl"] + mark {
+    background: #abdfff;
+    border-radius: 10px;
+}
+span[data-ref="#yl"] + mark {
+	background: #ffee00;
+}
+span[data-ref="#pk"] + mark {
+	background: #ffabcb;
+}
+span[data-ref="#rdf"] + mark {
+    color: #ffc7c7;
+    background: none;
+    padding: 0;
+    border-radius: 0;
+}
+span[data-ref="#grf"] + mark {
+    color: #ccffc1;
+    background: none;
+    padding: 0;
+    border-radius: 0;
+}
+span[data-ref="#blf"] + mark {
+    color: #abdfff;
+    background: none;
+    padding: 0;
+    border-radius: 0;
+}
+span[data-ref="#ylf"] + mark {
+    color: #ffee00;
+    background: none;
+    padding: 0;
+    border-radius: 0;
+}
